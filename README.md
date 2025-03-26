@@ -29,6 +29,5 @@ intern frontent development
 [![Figma](https://skill-chips.vercel.app/v1/Figma?lvl=advanced)](https://www.figma.com/)
 [![Git](https://skill-chips.vercel.app/v1/Git?lvl=advanced)](https://git-scm.com/)
 [![Docker](https://skill-chips.vercel.app/v1/Docker?lvl=intermediate)](https://www.docker.com/)
-[![Vim](https://skill-chips.vercel.app/v1/Vim?lvl=beginner)](https://www.vim.org/)
 
 
