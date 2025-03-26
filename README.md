@@ -9,25 +9,25 @@ intern frontent development
 ## Skills
 
 ### Languages
-
-[![TypeScript](https://skill-chips.vercel.app/v1/TypeScript?lvl=advanced)](https://www.typescriptlang.org/)
-[![JavaScript](https://skill-chips.vercel.app/v1/JavaScript?lvl=advanced)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://skill-chips.vercel.app/v1/CSS?lvl=advanced)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://skill-chips.vercel.app/v1/PHP?lvl=intermediate)](https://www.php.net/)
-[![Python](https://skill-chips.vercel.app/v1/Python?lvl=intermediate)](https://www.python.org/)
-[![Rust](https://skill-chips.vercel.app/v1/Rust?lvl=beginner)](https://www.rust-lang.org/)
-[![Go](https://skill-chips.vercel.app/v1/Go?lvl=beginner)](https://go.dev/)
+![TypeScript](https://skill-chips.vercel.app/v1/ts?lvl=advanced)
+![JavaScript](https://skill-chips.vercel.app/v1/js?lvl=advanced)
+![CSS](https://skill-chips.vercel.app/v1/css?lvl=advanced)
+![PHP](https://skill-chips.vercel.app/v1/php?lvl=intermediate)
+![Python](https://skill-chips.vercel.app/v1/py?lvl=intermediate)
+![Rust](https://skill-chips.vercel.app/v1/rs?lvl=learning)
+![Go](https://skill-chips.vercel.app/v1/go?lvl=beginner)
 
 ### JS Frameworks
-
-[![Svelte](https://skill-chips.vercel.app/v1/Svelte?lvl=advanced)](https://svelte.dev/)
-[![React](https://skill-chips.vercel.app/v1/React?lvl=advanced)](https://react.dev/)
-[![Vue](https://skill-chips.vercel.app/v1/Vue?lvl=advanced)](https://vuejs.org/)
+![Svelte](https://skill-chips.vercel.app/v1/svelte?lvl=advanced)
+![React](https://skill-chips.vercel.app/v1/react?lvl=advanced)
+![AlpineJS](https://skill-chips.vercel.app/v1/alpine?lvl=advanced)
+![Vue](https://skill-chips.vercel.app/v1/vue?lvl=advanced)
 
 ### Apps & tooling
+![Figma](https://skill-chips.vercel.app/v1/figma?lvl=advanced)
+![Git](https://skill-chips.vercel.app/v1/git?lvl=advanced)
+![Docker](https://skill-chips.vercel.app/v1/docker?lvl=intermediate)
 
-[![Figma](https://skill-chips.vercel.app/v1/Figma?lvl=advanced)](https://www.figma.com/)
-[![Git](https://skill-chips.vercel.app/v1/Git?lvl=advanced)](https://git-scm.com/)
-[![Docker](https://skill-chips.vercel.app/v1/Docker?lvl=intermediate)](https://www.docker.com/)
+
 
 
