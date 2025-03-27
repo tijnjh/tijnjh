@@ -17,12 +17,14 @@ intern frontent development
 ![Rust](https://skill-chips.vercel.app/v1/rs?lvl=learning)
 ![Go](https://skill-chips.vercel.app/v1/go?lvl=beginner)
 
-### JS Frameworks
+### Frameworks
 ![React](https://skill-chips.vercel.app/v1/react?lvl=advanced)
 ![Vue](https://skill-chips.vercel.app/v1/vue?lvl=advanced)
 ![Next.js](https://skill-chips.vercel.app/v1/next?lvl=intermediate)
 ![Svelte](https://skill-chips.vercel.app/v1/svelte?lvl=advanced)
 ![AlpineJS](https://skill-chips.vercel.app/v1/alpine?lvl=advanced)
+![TailwindCSS](https://skill-chips.vercel.app/v1/tailwind?lvl=advanced)
+![Sass](https://skill-chips.vercel.app/v1/sass?lvl=intermediate)
 
 
 ### Apps & tooling
