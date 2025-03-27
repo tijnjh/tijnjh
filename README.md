@@ -15,6 +15,7 @@ intern frontent development
 ![PHP](https://skill-chips.vercel.app/v1/php?lvl=intermediate)
 ![Python](https://skill-chips.vercel.app/v1/py?lvl=intermediate)
 ![Rust](https://skill-chips.vercel.app/v1/rs?lvl=learning)
+![Swift](https://skill-chips.vercel.app/v1/swift?lvl=learning)
 ![Go](https://skill-chips.vercel.app/v1/go?lvl=beginner)
 
 ### Frameworks
