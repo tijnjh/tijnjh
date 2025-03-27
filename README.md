@@ -18,14 +18,17 @@ intern frontent development
 ![Go](https://skill-chips.vercel.app/v1/go?lvl=beginner)
 
 ### JS Frameworks
-![Svelte](https://skill-chips.vercel.app/v1/svelte?lvl=advanced)
 ![React](https://skill-chips.vercel.app/v1/react?lvl=advanced)
-![AlpineJS](https://skill-chips.vercel.app/v1/alpine?lvl=advanced)
 ![Vue](https://skill-chips.vercel.app/v1/vue?lvl=advanced)
+![Next.js](https://skill-chips.vercel.app/v1/next?lvl=intermediate)
+![Svelte](https://skill-chips.vercel.app/v1/svelte?lvl=advanced)
+![AlpineJS](https://skill-chips.vercel.app/v1/alpine?lvl=advanced)
+
 
 ### Apps & tooling
 ![Figma](https://skill-chips.vercel.app/v1/figma?lvl=advanced)
 ![Git](https://skill-chips.vercel.app/v1/git?lvl=advanced)
+![Photoshop](https://skill-chips.vercel.app/v1/photoshop?lvl=intermediate)
 ![Docker](https://skill-chips.vercel.app/v1/docker?lvl=intermediate)
 
 
