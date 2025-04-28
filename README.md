@@ -33,6 +33,11 @@ intern frontent development
 ![Photoshop](https://skill-chips.vercel.app/v1/photoshop?lvl=intermediate)
 ![Docker](https://skill-chips.vercel.app/v1/docker?lvl=intermediate)
 
+## Projects
+
+Projects of mine that arent on my GitHub:
+
+- [unnamed youtube client](https://git.maid.zone/stuff/svideo)
 
 
 
