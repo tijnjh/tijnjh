@@ -35,9 +35,9 @@ intern frontent development
 
 ## Projects
 
-Projects of mine that arent on my GitHub:
+Other projects I am working on:
 
-- [unnamed youtube client](https://git.maid.zone/stuff/svideo)
+- [sybau (youtube client)](https://git.maid.zone/stuff/sybau)
 
 
 
