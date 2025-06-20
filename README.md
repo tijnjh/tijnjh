@@ -1,6 +1,6 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijnjh&layout=compact&theme=soft&hide_border=true&bg_color=00000000" alt="Top Languages"/></td>
+    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijnjh&layout=compact&theme=soft&hide_border=true&bg_color=00000000?" alt="Top Languages"/></td>
     <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tijnjh&show_icons=true&theme=soft&hide_border=true&bg_color=00000000" alt="GitHub Stats"/></td>
   </tr>
   <tr>
