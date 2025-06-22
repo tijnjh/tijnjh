@@ -6,9 +6,7 @@ i do dev stuff sometimes
 
 ## Skills
 
-![program skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,next,vue,nuxt,svelte,tailwind)
-
-![tooling skills](https://skillicons.dev/icons?i=docker,figma,git,photoshop)
+![](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,next,vue,nuxt,svelte,tailwind,docker,figma,git,photoshop&perline=11)
 
 ## Projects
 
