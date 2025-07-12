@@ -17,7 +17,6 @@ Other projects I am working on:
 <br />
 
 ![](https://komarev.com/ghpvc/?username=tijnjh)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/752143718118850620?simple=true?)
 
 
 
