@@ -4,7 +4,7 @@ i do dev stuff sometimes
 
 
 
-![https://maid.zone](https://maid.zone/random_button.png)
+[![](https://maid.zone/random_button.png)](https://maid.zone)
  
 
 
