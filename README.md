@@ -5,4 +5,4 @@ frontend dev @ fletcher hotels
 
 ![](https://skillicons.dev/icons?i=typescript,react,nextjs,vue,nuxtjs,svelte,astro,tailwind,swift,go,nodejs,bun,deno,vite,express,elysia,docker,git&perline=10)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tijnjh&layout=compact&langs_count=6&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=tijnjh&layout=compact&theme=nord)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tijnjh&layout=compact&langs_count=4&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=tijnjh&layout=compact&theme=nord)
